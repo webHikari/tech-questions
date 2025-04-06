@@ -181,4 +181,20 @@ h1.mantine-Title-root {
   .question-item {
     padding: 0.8rem 1rem;
   }
+
+  .accordion-container {
+    padding: 0.5rem;
+  }
+
+  .mantine-Accordion-item {
+    margin-bottom: 0.75rem;
+  }
+
+  .mantine-Accordion-control {
+    padding: 0.7rem 1rem;
+  }
+
+  .mantine-Accordion-content {
+    padding: 0 1rem 1rem;
+  }
 }
